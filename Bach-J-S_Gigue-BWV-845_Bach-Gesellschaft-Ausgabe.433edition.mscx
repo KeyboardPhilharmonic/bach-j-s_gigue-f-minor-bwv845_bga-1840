@@ -11,22 +11,22 @@
     <Style>
       <lastSystemFillLimit>0</lastSystemFillLimit>
       <page-layout>
-        <page-height>1584</page-height>
-        <page-width>1224</page-width>
+        <page-height>1683.78</page-height>
+        <page-width>1190.55</page-width>
         <page-margins type="even">
           <left-margin>56.6929</left-margin>
           <right-margin>56.6929</right-margin>
           <top-margin>56.6929</top-margin>
-          <bottom-margin>113.386</bottom-margin>
+          <bottom-margin>56.6929</bottom-margin>
           </page-margins>
         <page-margins type="odd">
           <left-margin>56.6929</left-margin>
           <right-margin>56.6929</right-margin>
           <top-margin>56.6929</top-margin>
-          <bottom-margin>113.386</bottom-margin>
+          <bottom-margin>56.6929</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.76389</Spatium>
+      <Spatium>1.5</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -84,6 +84,16 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
+        <bracket type="1" span="2"/>
+        <barLineSpan>2</barLineSpan>
+        </Staff>
+      <Staff id="2">
+        <StaffType group="pitched">
+          <name>stdNormal</name>
+          </StaffType>
+        <defaultClef>F</defaultClef>
+        <bracket type="-1" span="0"/>
+        <barLineSpan>0</barLineSpan>
         </Staff>
       <trackName>Piano</trackName>
       <Instrument>
@@ -163,13 +173,13 @@
       <Measure number="1">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="2">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="3">
@@ -178,25 +188,25 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="4">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="5">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="6">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="7">
@@ -205,25 +215,25 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="8">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="9">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="10">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="11">
@@ -232,25 +242,25 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="12">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="13">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="14">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="15">
@@ -259,25 +269,25 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="16">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="17">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="18">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="19">
@@ -286,25 +296,25 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="20">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="21">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="22">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="23">
@@ -313,21 +323,19 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="24" len="11/8">
         <endRepeat>2</endRepeat>
         <Rest>
-          <dots>1</dots>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
+          <durationType>whole</durationType>
           </Rest>
         <Rest>
           <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
           </Rest>
         </Measure>
       <Measure number="25" len="1/8">
@@ -340,7 +348,7 @@
       <Measure number="25">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="26">
@@ -349,25 +357,25 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="27">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="28">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="29">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="30">
@@ -376,25 +384,25 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="31">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="32">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="33">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="34">
@@ -409,19 +417,19 @@
       <Measure number="35">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="36">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="37">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="38">
@@ -430,25 +438,25 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="39">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="40">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="41">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="42">
@@ -457,19 +465,19 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="43">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="44">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="45">
@@ -478,37 +486,352 @@
           </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="46">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="47">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="48">
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="49">
         <endRepeat>2</endRepeat>
         <Rest>
           <durationType>measure</durationType>
-          <duration z="3" n="2"/>
+          <duration z="12" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>end-repeat</subtype>
-          <span>1</span>
-          </BarLine>
+        </Measure>
+      </Staff>
+    <Staff id="2">
+      <Measure number="1" len="1/8">
+        <KeySig>
+          <accidental>-4</accidental>
+          </KeySig>
+        <TimeSig>
+          <sigN>12</sigN>
+          <sigD>8</sigD>
+          <showCourtesySig>1</showCourtesySig>
+          </TimeSig>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="1">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="2">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="3">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="4">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="5">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="6">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="7">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="8">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="9">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="10">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="11">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="12">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="13">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="14">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="15">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="16">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="17">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="18">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="19">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="20">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="21">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="22">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="23">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="24" len="11/8">
+        <Rest>
+          <durationType>whole</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="25" len="1/8">
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="25">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="26">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="27">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="28">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="29">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="30">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="31">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="32">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="33">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="34">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="35">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="36">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="37">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="38">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="39">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="40">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="41">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="42">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="43">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="44">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="45">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="46">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="47">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="48">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
+        </Measure>
+      <Measure number="49">
+        <Rest>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
+          </Rest>
         </Measure>
       </Staff>
     </Score>

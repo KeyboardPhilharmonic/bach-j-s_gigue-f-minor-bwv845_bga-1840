@@ -19,39 +19,39 @@
     </identification>
   <defaults>
     <scaling>
-      <millimeters>7.05556</millimeters>
+      <millimeters>6</millimeters>
       <tenths>40</tenths>
       </scaling>
     <page-layout>
-      <page-height>1584</page-height>
-      <page-width>1224</page-width>
+      <page-height>1980</page-height>
+      <page-width>1400</page-width>
       <page-margins type="even">
-        <left-margin>56.6929</left-margin>
-        <right-margin>56.6929</right-margin>
-        <top-margin>56.6929</top-margin>
-        <bottom-margin>113.386</bottom-margin>
+        <left-margin>66.6667</left-margin>
+        <right-margin>66.6667</right-margin>
+        <top-margin>66.6667</top-margin>
+        <bottom-margin>66.6667</bottom-margin>
         </page-margins>
       <page-margins type="odd">
-        <left-margin>56.6929</left-margin>
-        <right-margin>56.6929</right-margin>
-        <top-margin>56.6929</top-margin>
-        <bottom-margin>113.386</bottom-margin>
+        <left-margin>66.6667</left-margin>
+        <right-margin>66.6667</right-margin>
+        <top-margin>66.6667</top-margin>
+        <bottom-margin>66.6667</bottom-margin>
         </page-margins>
       </page-layout>
     <word-font font-family="FreeSerif" font-size="10"/>
     <lyric-font font-family="FreeSerif" font-size="11"/>
     </defaults>
   <credit page="1">
-    <credit-words default-x="612" default-y="1527.31" justify="center" valign="top" font-size="24">5. Gigue</credit-words>
+    <credit-words default-x="700" default-y="1913.33" justify="center" valign="top" font-size="24">5. Gigue</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="612" default-y="1470.61" justify="center" valign="top" font-size="14">F-moll</credit-words>
+    <credit-words default-x="700" default-y="1846.67" justify="center" valign="top" font-size="14">F-moll</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="1167.31" default-y="1427.31" justify="right" valign="bottom" font-size="12">Johann Sebastian Bach</credit-words>
+    <credit-words default-x="1333.33" default-y="1813.33" justify="right" valign="bottom" font-size="12">Johann Sebastian Bach</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="612" default-y="113.386" justify="center" valign="bottom" font-size="8">Public domain, or Creative Commons 0 licence</credit-words>
+    <credit-words default-x="700" default-y="66.6667" justify="center" valign="bottom" font-size="8">Public domain, or Creative Commons 0 licence</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -70,15 +70,18 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="0" implicit="yes" width="169.78">
+    <measure number="0" implicit="yes" width="173.99">
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>170.00</top-system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <attributes>
         <divisions>2</divisions>
@@ -89,9 +92,14 @@
           <beats>12</beats>
           <beat-type>8</beat-type>
           </time>
-        <clef>
+        <staves>2</staves>
+        <clef number="1">
           <sign>G</sign>
           <line>2</line>
+          </clef>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
           </clef>
         </attributes>
       <note>
@@ -99,250 +107,534 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>1</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>5</voice>
+        <type>eighth</type>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="1" width="313.61">
+    <measure number="1" width="357.23">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="2" width="313.61">
+    <measure number="2" width="357.23">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="3" width="313.61">
+    <measure number="3" width="357.23">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="4" width="332.24">
+    <measure number="4" width="366.43">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>147.33</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="5" width="259.46">
+    <measure number="5" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="6" width="259.46">
+    <measure number="6" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="7" width="259.46">
+    <measure number="7" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="8" width="332.24">
+    <measure number="8" width="366.43">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>147.33</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="9" width="259.46">
+    <measure number="9" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="10" width="259.46">
+    <measure number="10" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="11" width="259.46">
+    <measure number="11" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="12" width="332.24">
+    <measure number="12" width="366.43">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>147.33</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="13" width="259.46">
+    <measure number="13" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="14" width="259.46">
+    <measure number="14" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="15" width="259.46">
+    <measure number="15" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="16" width="332.24">
+    <measure number="16" width="366.43">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>147.33</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="17" width="259.46">
+    <measure number="17" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="18" width="259.46">
+    <measure number="18" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="19" width="259.46">
+    <measure number="19" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="20" width="332.24">
+    <measure number="20" width="366.43">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>147.33</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="21" width="259.46">
+    <measure number="21" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="22" width="259.46">
+    <measure number="22" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="23" width="259.46">
+    <measure number="23" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="24" width="433.08">
+    <measure number="24" width="463.67">
       <print new-page="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>70.00</top-system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
-        <duration>6</duration>
+        <duration>8</duration>
         <voice>1</voice>
-        <type>half</type>
-        <dot/>
-        </note>
-      <note>
-        <rest/>
-        <duration>3</duration>
-        <voice>1</voice>
-        <type>quarter</type>
-        <dot/>
+        <type>whole</type>
+        <staff>1</staff>
         </note>
       <note>
         <rest/>
         <duration>2</duration>
         <voice>1</voice>
         <type>quarter</type>
+        <staff>1</staff>
+        </note>
+      <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>11</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>8</duration>
+        <voice>5</voice>
+        <type>whole</type>
+        <staff>2</staff>
+        </note>
+      <note>
+        <rest/>
+        <duration>2</duration>
+        <voice>5</voice>
+        <type>quarter</type>
+        <staff>2</staff>
+        </note>
+      <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>5</voice>
+        <type>eighth</type>
+        <staff>2</staff>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
         <repeat direction="backward"/>
         </barline>
       </measure>
-    <measure number="X1" implicit="yes" width="63.58">
+    <measure number="X1" implicit="yes" width="67.76">
       <barline location="left">
         <bar-style>heavy-light</bar-style>
         <repeat direction="forward"/>
@@ -352,235 +644,514 @@
         <duration>1</duration>
         <voice>1</voice>
         <type>eighth</type>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>1</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>1</duration>
+        <voice>5</voice>
+        <type>eighth</type>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="25" width="306.97">
+    <measure number="25" width="357.12">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="26" width="306.97">
+    <measure number="26" width="357.12">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="27" width="332.24">
+    <measure number="27" width="366.43">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>115.28</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="28" width="259.46">
+    <measure number="28" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="29" width="259.46">
+    <measure number="29" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="30" width="259.46">
+    <measure number="30" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="31" width="332.24">
+    <measure number="31" width="366.43">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>115.28</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="32" width="259.46">
+    <measure number="32" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="33" width="259.46">
+    <measure number="33" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="34" width="259.46">
+    <measure number="34" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="35" width="332.24">
+    <measure number="35" width="366.43">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>115.28</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="36" width="259.46">
+    <measure number="36" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="37" width="259.46">
+    <measure number="37" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="38" width="259.46">
+    <measure number="38" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="39" width="332.24">
+    <measure number="39" width="366.43">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>115.28</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="40" width="259.46">
+    <measure number="40" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="41" width="259.46">
+    <measure number="41" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="42" width="259.46">
+    <measure number="42" width="293.08">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="43" width="418.72">
+    <measure number="43" width="464.13">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>115.28</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="44" width="345.95">
+    <measure number="44" width="390.77">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="45" width="345.95">
+    <measure number="45" width="390.77">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="46" width="327.85">
+    <measure number="46" width="361.85">
       <print new-system="yes">
         <system-layout>
           <system-margins>
-            <left-margin>0.00</left-margin>
+            <left-margin>21.00</left-margin>
             <right-margin>0.00</right-margin>
             </system-margins>
-          <system-distance>150.00</system-distance>
+          <system-distance>115.28</system-distance>
           </system-layout>
+        <staff-layout number="2">
+          <staff-distance>65.00</staff-distance>
+          </staff-layout>
         </print>
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="47" width="255.08">
+    <measure number="47" width="288.50">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="48" width="255.08">
+    <measure number="48" width="288.50">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       </measure>
-    <measure number="49" width="272.61">
+    <measure number="49" width="306.82">
       <note>
         <rest/>
         <duration>12</duration>
         <voice>1</voice>
+        <staff>1</staff>
+        </note>
+      <backup>
+        <duration>12</duration>
+        </backup>
+      <note>
+        <rest/>
+        <duration>12</duration>
+        <voice>5</voice>
+        <staff>2</staff>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
