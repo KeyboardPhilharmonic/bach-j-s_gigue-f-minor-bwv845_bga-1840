@@ -1,2 +1,8 @@
 # Mac OS files
 .DS_Store
+
+# Temporary files - MuseScore
+.*,
+
+# temporary input/output files
+inputs
