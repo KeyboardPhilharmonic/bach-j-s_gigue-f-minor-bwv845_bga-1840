@@ -507,11 +507,16 @@
           <duration z="12" n="8"/>
           </Rest>
         </Measure>
-      <Measure number="49">
+      <Measure number="49" len="11/8">
         <endRepeat>2</endRepeat>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="12" n="8"/>
+          <durationType>whole</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
           </Rest>
         </Measure>
       </Staff>
@@ -827,10 +832,15 @@
           <duration z="12" n="8"/>
           </Rest>
         </Measure>
-      <Measure number="49">
+      <Measure number="49" len="11/8">
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="12" n="8"/>
+          <durationType>whole</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>eighth</durationType>
           </Rest>
         </Measure>
       </Staff>
