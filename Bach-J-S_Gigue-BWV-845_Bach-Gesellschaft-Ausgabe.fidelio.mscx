@@ -2982,7 +2982,7 @@ $:copyright:</oddFooterC>
             </Note>
           </Chord>
         <Beam id="65">
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -3139,8 +3139,8 @@ $:copyright:</oddFooterC>
           <durationType>eighth</durationType>
           <Beam>68</Beam>
           <Note>
-            <pitch>77</pitch>
-            <tpc>13</tpc>
+            <pitch>79</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5140,7 +5140,7 @@ $:copyright:</oddFooterC>
         </Measure>
       <Measure number="48">
         <Beam id="119">
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           </Beam>
         <Chord>
           <BeamMode>begin</BeamMode>
@@ -5466,6 +5466,10 @@ $:copyright:</oddFooterC>
           <durationType>eighth</durationType>
           <Beam>126</Beam>
           <Note>
+            <Accidental>
+              <role>1</role>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -6270,8 +6274,8 @@ $:copyright:</oddFooterC>
           <durationType>eighth</durationType>
           <Beam>140</Beam>
           <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -6588,13 +6592,10 @@ $:copyright:</oddFooterC>
           <track>5</track>
           <dots>1</dots>
           <durationType>half</durationType>
-          <Slur type="start" id="9"/>
-          <StemDirection>down</StemDirection>
           <Note>
             <track>5</track>
             <pitch>51</pitch>
             <tpc>11</tpc>
-            <dotPosition>down</dotPosition>
             </Note>
           </Chord>
         </Measure>
@@ -7084,7 +7085,7 @@ $:copyright:</oddFooterC>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
               <role>1</role>
@@ -7122,7 +7123,7 @@ $:copyright:</oddFooterC>
           <BeamMode>no</BeamMode>
           <dots>1</dots>
           <durationType>quarter</durationType>
-          <StemDirection>down</StemDirection>
+          <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
             <tpc>10</tpc>
