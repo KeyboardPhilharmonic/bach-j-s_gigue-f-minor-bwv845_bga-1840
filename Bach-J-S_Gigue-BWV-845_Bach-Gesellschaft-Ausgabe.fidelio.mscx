@@ -11,6 +11,7 @@
     <Division>480</Division>
     <Style>
       <lastSystemFillLimit>0</lastSystemFillLimit>
+      <showMeasureNumberOne>1</showMeasureNumberOne>
       <measureNumberInterval>1</measureNumberInterval>
       <measureNumberSystem>0</measureNumberSystem>
       <showHeader>1</showHeader>
@@ -19,8 +20,9 @@
       <oddHeaderR>$p</oddHeaderR>
       <evenFooterL></evenFooterL>
       <evenFooterC>B.W. XLII.
-$:copyright:
-</evenFooterC>
+$:copyright:</evenFooterC>
+      <evenFooterR>$M</evenFooterR>
+      <oddFooterL>$M</oddFooterL>
       <oddFooterC>B.W. XLII.
 $:copyright:</oddFooterC>
       <oddFooterR></oddFooterR>
@@ -48,16 +50,18 @@ $:copyright:</oddFooterC>
     <showMargins>1</showMargins>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composer">Johann Sebastian Bach</metaTag>
-    <metaTag name="copyright">Public domain, or Creative Commons 0 licence</metaTag>
-    <metaTag name="creationDate">2016-05-17</metaTag>
+    <metaTag name="copyright">CC0: Copyright waived by Keyboard Philharmonic and all contributors, 2016.</metaTag>
+    <metaTag name="creationDate">2016-05-20</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">http://imslp.org/wiki/Special:ReverseLookup/6429</metaTag>
+    <metaTag name="transcriber">Keyboard Philharmonic project</metaTag>
+    <metaTag name="transcriberURL">http://KeyboardPhilharmonic.org</metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workNumber">BWV 846</metaTag>
     <metaTag name="workTitle">5. Gigue</metaTag>
     <PageList>
       <Page>
@@ -89,6 +93,10 @@ $:copyright:</oddFooterC>
           </System>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -5233,6 +5241,9 @@ $:copyright:</oddFooterC>
         </Measure>
       <Measure number="49" len="11/8">
         <endRepeat>2</endRepeat>
+        <LayoutBreak>
+          <subtype>page</subtype>
+          </LayoutBreak>
         <Beam id="121">
           <StemDirection>up</StemDirection>
           </Beam>
@@ -5322,6 +5333,47 @@ $:copyright:</oddFooterC>
           <durationType>quarter</durationType>
           </Rest>
         </Measure>
+      <TBox>
+        <height>1</height>
+        <Text>
+          <style>Frame</style>
+          <text><b><font face="Arial"/>Metadata and Credits
+
+</b><font face="FreeSerif"/>This score was transcribed from a printed score which is in the public domain, by the 
+Keyboard Philharmonic project. The transcribed score is in turn granted to the public domain.
+
+This transcription is dedicated to the <b>Music Encoding Conference 2016</b>, Montréal, Canada, 17-20 May 2016.
+
+<b>Composition:
+</b>Composer: Bach, Johann Sebastian
+Opus/Catalogue Number: BWV 845
+Key: F minor
+Movements/Sections: 1
+
+<b>Reference score:
+</b>First Publication: 1894 
+Publisher Info.: <i>Bach-Gesellschaft Ausgabe, Band 42. </i> Leipzig: Breitkopf und Härtel, 1840. Plate B.W. XLII.
+Copyright: Public Domain
+Source collection: Internet Music Score Library Project / Petrucci Music Library (IMSLP/PMLP)
+Source link: http://imslp.org/wiki/Special:ReverseLookup/6429
+File name: IMSLP06429-Bach_-_BGA_-_BWV_845.pdf
+Pages: 2
+
+<b>Transcription</b>:
+Grateful thanks to the contributors: Jorge Calvo-Zaragoza, Richard Chesser, Jim DeLaHunt, Timothy Duguid, 
+Jose M. Iñesta, Franz Kelnreiter, Johannes Kepper,  Christina Noel, David Rizo, Sonia Wronkowska.
+Lead editor: Jim DeLaHunt. Last revised 2016-05-20.
+This is a <i>Fidelio edition</i> using the Keyboard Philharmonic editorial standards (2016-05). It reproduces the 
+original notation, editorial marks, layout, and page breaks as closely as possible.
+A Keyboard Philharmonic project, http://KeyboardPhilharmonic.org .
+
+<b>Licence</b>: To the extent possible under law, the Keyboard Philharmonic project and all contributors have waived 
+all copyright and related or neighboring rights to 
+<i>Bach-J-S_Gigue-BWV-845_Bach-Gesellschaft-Ausgabe.fidelio</i> (with .xml, .pdf, and .mscx extensions). 
+This work is published from Canada. (CC0 http://creativecommons.org/publicdomain/zero/1.0/ )
+</text>
+          </Text>
+        </TBox>
       </Staff>
     <Staff id="2">
       <Measure number="1" len="1/8">
@@ -6592,6 +6644,7 @@ $:copyright:</oddFooterC>
           <track>5</track>
           <dots>1</dots>
           <durationType>half</durationType>
+          <Slur type="start" id="9"/>
           <Note>
             <track>5</track>
             <pitch>51</pitch>

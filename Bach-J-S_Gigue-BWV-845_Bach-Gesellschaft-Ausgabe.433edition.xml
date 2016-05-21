@@ -2,11 +2,12 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
   <work>
+    <work-number>BWV 846</work-number>
     <work-title>5. Gigue</work-title>
     </work>
   <identification>
     <creator type="composer">Johann Sebastian Bach</creator>
-    <rights>Public domain, or Creative Commons 0 licence</rights>
+    <rights>CC0: Copyright waived by Keyboard Philharmonic and all contributors, 2016.</rights>
     <encoding>
       <software>MuseScore 2.0.2</software>
       <encoding-date>2016-05-20</encoding-date>
@@ -16,6 +17,7 @@
       <supports element="print" attribute="new-system" type="yes" value="yes"/>
       <supports element="stem" type="yes"/>
       </encoding>
+    <source>http://imslp.org/wiki/Special:ReverseLookup/6429</source>
     </identification>
   <defaults>
     <scaling>
@@ -51,7 +53,7 @@
     <credit-words default-x="1333.33" default-y="1813.33" justify="right" valign="bottom" font-size="12">Johann Sebastian Bach</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="699.999" default-y="66.6667" justify="center" valign="bottom" font-size="8">Public domain, or Creative Commons 0 licence</credit-words>
+    <credit-words default-x="699.999" default-y="66.6667" justify="center" valign="bottom" font-size="8">CC0: Copyright waived by Keyboard Philharmonic and all contributors, 2016.</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
